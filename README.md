@@ -1,8 +1,6 @@
 # Fedex_Logistics_SQL_Analysis
 SQL-based logistics analytics project analyzing shipment delays, route optimization, warehouse performance, and delivery efficiency.
 
-<img width="1237" height="688" alt="Route delays" src="https://github.com/user-attachments/assets/95958651-cbde-47ca-9604-751f77626ad9" />
-<img width="1237" height="688" alt="Route delays" src="https://github.com/user-attachments/assets/0bc87a80-9d4b-4b30-8fec-1384fcf7b0c4" />
 # 🚚 FedEx Logistics Optimization using SQL
 
 An end-to-end SQL analytics project that analyzes FedEx logistics operations to uncover insights into shipment delays, route efficiency, warehouse performance, delivery agent productivity, and overall supply chain performance. Using SQL, the project transforms operational data into actionable business insights that support data-driven decision-making and logistics optimization.
